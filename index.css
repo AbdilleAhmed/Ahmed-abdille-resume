@@ -1,0 +1,87 @@
+
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  .image{
+    
+        border-radius: 50%;
+        width: 50px;
+        height: auto;
+        align-items: center;
+      
+  }
+  
+  .resume {
+    max-width: 900px;
+    margin: 30px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+    color: #2e3a45;
+  }
+  
+  p, ul {
+    margin: 10px 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    font-size: 2em;
+    margin-bottom: 5px;
+  }
+  
+  header p {
+    margin: 5px 0;
+    font-size: 0.9em;
+    color: #666;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  section h2 {
+    color: #302a2a;
+    margin-bottom: 15px;
+  }
+  
+  .job h3 {
+    font-size: 1.2em;
+    color: #0c9bee;
+    margin-bottom: 5px;
+  }
+  
+  .job ul li {
+    margin-left: 20px;
+    line-height: 1.6;
+  }
+  
+  .skills ul li {
+    padding-left: 20px;
+    line-height: 1.6;
+  }
+  
+ 
+  
+  .additional-info p {
+    font-style: italic;
+    color: #555;
+  }
